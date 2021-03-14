@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1563828991 source:c:\users\fernando\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\position.c
+	"Position.h"
+	<stdlib.h>
+
+1561990540 c:\users\fernando\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\position.h
+
+1563830105 source:c:\users\fernando\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Maze.h"
+
+1563829766 c:\users\fernando\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\maze.h
+	"Position.h"
+	"Player.h"
+	"Inimigo.h"
+	"Saida.h"
+
+1563830014 source:c:\users\fernando\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\maze.c
+	"Maze.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1563829515 source:c:\users\fernando\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\player.c
+	"Player.h"
+	<stdio.h>
+	<stdlib.h>
+
+1563829505 c:\users\fernando\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\player.h
+	"Position.h"
+
+1562468310 c:\users\fernando\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\inimigo.h
+	"Position.h"
+
+1562468519 source:c:\users\fernando\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\inimigo.c
+	"Inimigo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1562396412 source:c:\users\fernando\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\saida.c
+	"Saida.h"
+	<stdio.h>
+	<stdlib.h>
+
+1562396217 c:\users\fernando\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\saida.h
+	"Position.h"
+
+1562570447 source:c:\users\fernando\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\gerador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
+1579093870 source:c:\users\fabreu\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\inimigo.c
+	"Inimigo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1579093870 c:\users\fabreu\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\inimigo.h
+	"Position.h"
+
+1579093878 c:\users\fabreu\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\position.h
+
+1579093870 source:c:\users\fabreu\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Maze.h"
+
+1579093872 c:\users\fabreu\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\maze.h
+	"Position.h"
+	"Player.h"
+	"Inimigo.h"
+	"Saida.h"
+
+1579093876 c:\users\fabreu\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\player.h
+	"Position.h"
+
+1579093878 c:\users\fabreu\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\saida.h
+	"Position.h"
+
+1579093872 source:c:\users\fabreu\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\maze.c
+	"Maze.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1579093876 source:c:\users\fabreu\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\player.c
+	"Player.h"
+	<stdio.h>
+	<stdlib.h>
+
+1579093876 source:c:\users\fabreu\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\position.c
+	"Position.h"
+	<stdlib.h>
+
+1579093878 source:c:\users\fabreu\desktop\utfpr\periodo_1\fundamentos _e_programação_-_rafael bagueta\trabalho\trabalho02\mazet\saida.c
+	"Saida.h"
+	<stdio.h>
+	<stdlib.h>
+
+1579093870 source:c:\users\fabreu\desktop\project\mazerunner\mazet\inimigo.c
+	"Inimigo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1579093870 c:\users\fabreu\desktop\project\mazerunner\mazet\inimigo.h
+	"Position.h"
+
+1579093878 c:\users\fabreu\desktop\project\mazerunner\mazet\position.h
+
+1579093872 source:c:\users\fabreu\desktop\project\mazerunner\mazet\maze.c
+	"Maze.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1579093872 c:\users\fabreu\desktop\project\mazerunner\mazet\maze.h
+	"Position.h"
+	"Player.h"
+	"Inimigo.h"
+	"Saida.h"
+
+1579093876 c:\users\fabreu\desktop\project\mazerunner\mazet\player.h
+	"Position.h"
+
+1579093878 c:\users\fabreu\desktop\project\mazerunner\mazet\saida.h
+	"Position.h"
+
+1579093876 source:c:\users\fabreu\desktop\project\mazerunner\mazet\player.c
+	"Player.h"
+	<stdio.h>
+	<stdlib.h>
+
+1579093876 source:c:\users\fabreu\desktop\project\mazerunner\mazet\position.c
+	"Position.h"
+	<stdlib.h>
+
+1579093878 source:c:\users\fabreu\desktop\project\mazerunner\mazet\saida.c
+	"Saida.h"
+	<stdio.h>
+	<stdlib.h>
+
+1601682845 source:c:\users\fabreu\desktop\project\mazerunner\mazet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Maze.h"
+
